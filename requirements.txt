@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+huggingface_hub
+sentence-transformers
+gTTS
+pdf2image
+pytesseract
+Pillow
+transformers
+accelerate
+plotly
